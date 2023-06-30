@@ -108,7 +108,7 @@
 
 /* spec */
 .spec {
-  height: 80vw;
+  height: 1536px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -187,8 +187,8 @@
 .spec .desc.desc_l .txt_item .item h4 {
 } */
 .spec .desc.desc_l .itme_cont {
-  width: 38vw;
-  height: 36vw;
+  width: 93%;
+  height: 690px;
   position: relative;
   font-size: 0;
 
@@ -319,7 +319,7 @@
   font-size: 40px;
   line-height: 40px;
   font-weight: 800;
-  letter-spacing: -2px;
+  letter-spacing: -3px;
   color: #101841;
   font-family: "Nanum Myeongjo", serif;
   margin-top: 16px;
@@ -450,6 +450,7 @@
   font-weight: 500;
   letter-spacing: -1.5px;
   text-transform: uppercase;
+  color: #977762;
 }
 .premium_slide .desc .pr_point span:nth-child(1) {
   margin-left: 10px;
